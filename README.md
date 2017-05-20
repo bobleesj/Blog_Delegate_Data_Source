@@ -14,7 +14,7 @@ Your job is to pass data from `FirstVC` to `SecondVC`. Let us use the delegate p
 ---
 
 Read More:
-https://medium.com/ios-geek-community/ui-networking-like-a-boss-in-swift-3-b4607dadfcea#.f8t2z9n9y
+https://medium.com/ios-geek-community/the-complete-understanding-of-swift-delegate-and-data-source-9c91ecd7f1
 
 Facebook Page:
 https://facebook.com/bobthedeveloper
